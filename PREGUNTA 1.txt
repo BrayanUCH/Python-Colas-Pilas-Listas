@@ -1,0 +1,5 @@
+Que pasaría si en lugar de colas en la función anterior se tienen pilas, suponiendo que la función esta correcta.
+
+    Cumpliría con el propósito del código (pregunta #1), sin embrago sería necesario reestructurar partes del código,
+ya que en el manejo varia un poco de uno al otro, porque en la pila respeta el orden es el último que entra
+es el primero en salir pero en la cola el orden es el primero en entrar es el primero en salir.
